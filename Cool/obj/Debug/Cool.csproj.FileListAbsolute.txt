@@ -1,0 +1,8 @@
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\bin\Debug\Cool.exe.config
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\bin\Debug\Cool.exe
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\bin\Debug\Cool.pdb
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\obj\Debug\Cool.csproj.AssemblyReference.cache
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\obj\Debug\Cool.csproj.SuggestedBindingRedirects.cache
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\obj\Debug\Cool.csproj.CoreCompileInputs.cache
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\obj\Debug\Cool.exe
+D:\Курс_3\6семестр\ИСИС\5лаб\ISIS5\ISIS_5\Cool\obj\Debug\Cool.pdb
