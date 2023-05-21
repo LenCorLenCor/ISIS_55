@@ -29,7 +29,7 @@ class Calculator
                 result = Math.Pow(number1, number2);
                 break;
             default:
-                Console.WriteLine("Неверный оператор");
+                Console.WriteLine("Неверный оператор/");
                 break;
         }
         Console.WriteLine("Результат: " + result);
